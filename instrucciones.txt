@@ -1,0 +1,2 @@
+realizado con vite
+npm run dev
